@@ -11,7 +11,7 @@ import { PostCard, PostWidget, Categories } from "../components";
 
 const Home: NextPage = ({ posts }: Props) => {
   return (
-    <div className="container mx-auto px-10 mb-8 bg-gray-200">
+    <div className="container mx-auto px-10 mb-8">
       <Head>
         <title>Aaron Staes Blog</title>
       </Head>
